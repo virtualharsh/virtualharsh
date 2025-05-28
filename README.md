@@ -21,10 +21,7 @@ I am looking forward to engaging with more students and expanding my network. I 
     <img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" alt="LinkedIn" width="30" height="30"/>
   </a>
   &nbsp;&nbsp;
-  <a href="https://medium.com/@harshsonegra" target="_blank">
-    <img src="https://seeklogo.com/images/M/medium-logo-93CDCF6451-seeklogo.com.png" alt="Medium" width="30" height="30"/>
-  </a>
-  &nbsp;&nbsp;
+  
   <a href="mailto:harshsonegra@gmail.com" target="_blank">
     <img src="https://cdn-icons-png.flaticon.com/512/732/732200.png" alt="Email" width="30" height="30"/>
   </a>
