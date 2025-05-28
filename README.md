@@ -3,14 +3,14 @@
 
 <hr>
 
-# 👨‍💻 About Me : <br>
-I'm Harsh Sonegra 🧑‍🎓, and I've been consuming oxygen from the atmosphere for the last 18 years! I've completed my Diploma in Computer Engineering 💻 from Government Polytechnic, Porbandar and I'm currently pursuing my pre-final year of Bachelors' in CSE (Data Science) from Vishwakarma Government Engineering College, Chandkheda.
+### 👨‍💻 About Me : <br>
+I'm Harsh Sonegra 🧑‍🎓, and I've been consuming oxygen from the atmosphere for the last 18 years! I've completed my Diploma in Computer Engineering 💻 from the Government Polytechnic, Porbandar. I'm currently pursuing my pre-final Bachelor's in CSE (Data Science) from Vishwakarma Government Engineering College, Chandkheda.
 
 You'll mostly find me talking about web development 💻, Machine Learning 📊, and Algorithm Optimization 📈. Besides coding, you may find me singing 🎤, dancing 🕺, reading a good book 📖, or playing Chess ♟️.
 
 I am looking forward to engaging with more students and expanding my network. I am excited to exchange insights and knowledge!
 
-"If we both have an apple and we exchange it, we will still have one apple each, but if we both have an idea and we exchange it, we will both have two ideas. So let's grow and share our thoughts and improve exponentially!"
+"If we both have an apple and we exchange it, we will still have one apple each, but if we both have an idea and we exchange it, we will both have two ideas. So let's grow and share our thoughts, and improve exponentially!"
 
 <hr>
 
