@@ -1,6 +1,9 @@
-<p align="center" style="font-size:14px;">Hey <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25"> I'm Harsh Sonegra</p>
-<div id="header" align="center"> <div id="badges"> </div> </div> <hr>
-👨‍💻 About Me :
+# <p align="center" style="font-size:14px;">Hey <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25"> I'm Harsh Sonegra</p>
+<div id="header" align="center"> <div id="badges"> </div> </div> 
+
+<hr>
+
+# 👨‍💻 About Me : <br>
 I'm Harsh Sonegra 🧑‍🎓, and I've been consuming oxygen from the atmosphere for the last 18 years! I've completed my Diploma in Computer Engineering 💻 from Government Polytechnic, Porbandar and I'm currently pursuing my pre-final year of Bachelors' in CSE (Data Science) from Vishwakarma Government Engineering College, Chandkheda.
 
 You'll mostly find me talking about web development 💻, Machine Learning 📊, and Algorithm Optimization 📈. Besides coding, you may find me singing 🎤, dancing 🕺, reading a good book 📖, or playing Chess ♟️.
