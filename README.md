@@ -27,8 +27,11 @@ I am looking forward to engaging with more students and expanding my network. I 
   
   <a href="mailto:harshsonegrahere@gmail.com" target="_blank">
     <img src="https://cdn-icons-png.flaticon.com/512/732/732200.png" alt="Email" width="30" height="30"/>
-    harshsonegrahere@gmail.com
   </a>
+
+  <br>
+  harshsonegrahere@gmail.com
+
 </p>
 <hr>
 Languages and Tools :hammer_and_wrench: :
