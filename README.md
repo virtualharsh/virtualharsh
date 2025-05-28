@@ -36,7 +36,7 @@ I am looking forward to engaging with more students and expanding my network. I 
 
 ### Languages and Tools :hammer_and_wrench: :
 
-<br><br>
+<br>
 <div> 
   <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;&nbsp; 
   <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="40" height="40"/>&nbsp;&nbsp;
