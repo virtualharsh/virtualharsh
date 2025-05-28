@@ -10,12 +10,9 @@ I am looking forward to engaging with more students and expanding my network. I 
 "If we both have an apple and we exchange it, we will still have one apple each, but if we both have an idea and we exchange it, we will both have two ideas. So let's grow and share our thoughts and improve exponentially!"
 
 <hr>
+
 📫 Contact Me :
-🔗 Medium{:target="_blank"}
-
-💼 LinkedIn{:target="_blank"}
-
-📷 Instagram{:target="_blank"}
+<p> <a href="https://www.instagram.com/e_harshlo" target="_blank"> <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"> </a> <a href="https://www.linkedin.com/in/harshsonegra/" target="_blank"> <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"> </a> <a href="https://medium.com/@harshsonegra" target="_blank"> <img src="https://img.shields.io/badge/Medium-000000?style=for-the-badge&logo=medium&logoColor=white" alt="Medium"> </a> <a href="mailto:harshsonegra@gmail.com" target="_blank"> <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"> </a> </p> <hr>
 
 <hr>
 Languages and Tools :hammer_and_wrench: :
