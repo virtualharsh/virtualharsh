@@ -14,7 +14,7 @@ I am looking forward to engaging with more students and expanding my network. I 
 
 <hr>
 
-📫 Contact Me :
+### 📫 Contact Me :
 <p>
   <a href="https://www.instagram.com/e_harshlo" target="_blank">
     <img src="https://cdn-icons-png.flaticon.com/512/2111/2111463.png" alt="Instagram" width="30" height="30"/>
@@ -33,7 +33,9 @@ I am looking forward to engaging with more students and expanding my network. I 
 
 </p>
 <hr>
-Languages and Tools :hammer_and_wrench: :
+
+### Languages and Tools :hammer_and_wrench: :
+
 <br><br>
 <div> 
   <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;&nbsp; 
