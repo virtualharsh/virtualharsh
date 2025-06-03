@@ -17,7 +17,7 @@
 
 - 📫 How to reach me **harshsonegrahere@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1qxxzYXGzaeSIqes77o4rpk9Usi073qid/view?usp=sharing](https://drive.google.com/file/d/1qxxzYXGzaeSIqes77o4rpk9Usi073qid/view?usp=sharing)
+- 📄 Know about my experiences [> Resume ](https://drive.google.com/file/d/1qxxzYXGzaeSIqes77o4rpk9Usi073qid/view?usp=sharing)
 
 - ⚡ Fun fact **Sometimes I don't think about code**
 
