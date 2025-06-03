@@ -1,52 +1,40 @@
-# <p align="center" style="font-size:14px;">Hey <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25"> I'm Harsh Sonegra</p>
-<div id="header" align="center"> <div id="badges"> </div> </div> 
+<h1 align="center">Hi 👋, I'm Harsh Sonegra</h1>
+<h3 align="center">A passionate full stack developer from India</h3>
 
-<hr>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=virtualharsh&label=Profile%20views&color=0e75b6&style=flat" alt="virtualharsh" /> </p>
 
-### 👨‍💻 About Me : <br>
-I'm Harsh Sonegra 🧑‍🎓, and I've been consuming oxygen from the atmosphere for the last 20 years! I've completed my Diploma in Computer Engineering 💻 from the Government Polytechnic, Porbandar. I'm pursuing my final Bachelor's in CSE (Data Science) from Vishwakarma Government Engineering College, Chandkheda.
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=virtualharsh" alt="virtualharsh" /></a> </p>
 
-You'll mostly find me talking about web development 💻, Machine Learning 📊, and Algorithm Optimization 📈. Besides coding, you may find me singing 🎤, dancing 🕺, reading a good book 📖, or playing Chess ♟️.
+- 🔭 I’m currently working on [taskk - a notion clone](https://github.com/virtualharsh/taskk)
 
-I am looking forward to engaging with more students and expanding my network. I am excited to exchange insights and knowledge!
+- 🌱 I’m currently learning **DevOps | Docker | Kubernetes**
 
-"If we both have an apple and we exchange it, we will still have one apple each, but if we both have an idea and we exchange it, we will both have two ideas. So let's grow and share our thoughts, and improve exponentially!"
+- 👯 I’m looking to collaborate on [music-room](https://github.com/virtualharsh/music-room)
 
-<hr>
+- 👨‍💻 All of my projects are available at [https://portfolio-delta-two-43.vercel.app/](https://portfolio-delta-two-43.vercel.app/)
 
-### 📫 Contact Me :
+- 📝 I regularly write articles on [harshsonegra.medium.com](harshsonegra.medium.com)
 
-<p>
-  <a href="https://www.instagram.com/e_harshlo" target="_blank">
-    <img src="https://cdn-icons-png.flaticon.com/512/2111/2111463.png" alt="Instagram" width="30" height="30"/>
-  </a>
-  &nbsp;&nbsp;
-  <a href="https://www.linkedin.com/in/harshsonegra/" target="_blank">
-    <img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" alt="LinkedIn" width="30" height="30"/>
-  </a>
-  &nbsp;&nbsp;
-  
-  <a href="mailto:harshsonegrahere@gmail.com" target="_blank">
-    <img src="https://cdn-icons-png.flaticon.com/512/732/732200.png" alt="Email" width="30" height="30"/>
-  </a>
-  <br>
-  harshsonegrahere@gmail.com
+- 💬 Ask me about **react, shadcn/UI, node, and Algorithms**
 
+- 📫 How to reach me **harshsonegrahere@gmail.com**
+
+- 📄 Know about my experiences [https://drive.google.com/file/d/1qxxzYXGzaeSIqes77o4rpk9Usi073qid/view?usp=sharing](https://drive.google.com/file/d/1qxxzYXGzaeSIqes77o4rpk9Usi073qid/view?usp=sharing)
+
+- ⚡ Fun fact **Sometimes I don't think about code**
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://linkedin.com/in/harshsonegra" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="harshsonegra" height="30" width="40" /></a>
+<a href="https://instagram.com/e_harshlo" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="e_harshlo" height="30" width="40" /></a>
+<a href="https://medium.com/@harshsonegra" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@harshsonegra" height="30" width="40" /></a>
 </p>
-<hr>
 
-### Languages and Tools :hammer_and_wrench: :
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://kubernetes.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="kubernetes" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.nginx.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" alt="nginx" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.oracle.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> </p>
 
-<div> 
-  <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;&nbsp; 
-  <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="40" height="40"/>&nbsp;&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg" title="CSS3" alt="CSS" width="40" height="40"/>&nbsp;&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp; &nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Python" alt="Python" width="40" height="40"/>&nbsp;&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="MySQL" alt="MySQL" width="40" height="40"/>&nbsp; &nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg" title="NodeJS" alt="NodeJS" width="40" height="40"/>&nbsp;&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" alt="Git" width="40" height="40"/> &nbsp;&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/postman/postman-original.svg" title="Postman" alt="Postman" width="40" height="40"/>&nbsp; &nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original-wordmark.svg" title="MongoDB" alt="MongoDB" width="40" height="40"/> &nbsp;&nbsp;
-</div>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=virtualharsh&show_icons=true&locale=en&layout=compact" alt="virtualharsh" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=virtualharsh&show_icons=true&locale=en" alt="virtualharsh" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=virtualharsh&" alt="virtualharsh" /></p>
