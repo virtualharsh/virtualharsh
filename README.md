@@ -11,7 +11,7 @@
 
 - 👨‍💻 All of my projects are available at [https://portfolio-delta-two-43.vercel.app/](https://portfolio-delta-two-43.vercel.app/)
 
-- 📝 I regularly write articles on [harshsonegra.medium.com](harshsonegra.medium.com)
+- 📝 I sometimes write articles on [harshsonegra.medium.com](harshsonegra.medium.com)
 
 - 💬 Ask me about **react, shadcn/UI, node, and Algorithms**
 
