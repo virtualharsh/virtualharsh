@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=virtualharsh&label=Profile%20views&color=0e75b6&style=flat" alt="virtualharsh" /> </p>
 
-- 🔭 I’m currently working on [taskk - a notion clone](https://github.com/virtualharsh/taskk)
+- 🔭 I’m currently working on [music-room](https://github.com/virtualharsh/music-room)
 
 - 🌱 I’m currently learning **DevOps | Docker | Kubernetes**
 
