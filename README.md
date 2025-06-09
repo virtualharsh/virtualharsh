@@ -9,7 +9,7 @@
 
 - 👯 I’m looking to collaborate on [music-room](https://github.com/virtualharsh/music-room)
 
-- 👨‍💻 All of my projects are available at [https://portfolio-delta-two-43.vercel.app/](https://portfolio-delta-two-43.vercel.app/)
+- 👨‍💻 All of my projects are available at [Harsh's Repo](https://github.com/virtualharsh?tab=repositories)
 
 - 📝 I sometimes write articles on [harshsonegra.medium.com](harshsonegra.medium.com)
 
