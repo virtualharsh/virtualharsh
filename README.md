@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **Docker | Kubernetes**
 
-- 👯 I’m looking to collaborate on [Taskk - A notion clone](https://github.com/virtualharsh/music-room)
+- 👯 I’m looking to collaborate on [Taskk - A notion clone](https://github.com/virtualharsh/taskk)
 
 - 👨‍💻 All of my projects are available at [Harsh's Repo](https://github.com/virtualharsh?tab=repositories)
 
