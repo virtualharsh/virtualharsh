@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on [music-room](https://github.com/virtualharsh/music-room)
 
-- 🌱 I’m currently learning **Docker | Kubernetes**
+- 🌱 I’m currently learning **Node Streams & NGINX**
 
 - 👯 I’m looking to collaborate on [Taskk - A notion clone](https://github.com/virtualharsh/taskk)
 
