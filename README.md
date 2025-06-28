@@ -1,8 +1,10 @@
 <h1 align="center">Hi 👋, I'm Harsh Sonegra</h1>
 <h3 align="center">A passionate full stack developer from India</h3>
-<p align="center"> Visit [portfolio](https://harsh-peach.vercel.app) </p>
+
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=virtualharsh&label=Profile%20views&color=0e75b6&style=flat" alt="virtualharsh" /> </p>
+
+- 😎 Visit [portfolio](https://harsh-peach.vercel.app)
 
 - 🔭 I’m currently working on [music-room](https://github.com/virtualharsh/music-room)
 
